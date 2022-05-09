@@ -12,3 +12,7 @@ A curated list on the topic of open business models and strategies
 * [COSS-Course](https://github.com/dirkriehle/coss-course) - A course on commercial open source startups.
 * [Sid Sijbrandij](https://www.heavybit.com/library/video/commercial-open-source-business-strategies/) - Commercial Open Source Business Strategies.
 * [Open Collective](https://opencollective.com/) - An online platform that helps open communities and collaborative groups collect and spend money transparently.
+* [Open Source Contracting](https://github.com/mgifford/open-source-contracting) - Providing example language for contracts which work with open-source software and explicitly want to encourage it's growth and development.
+* [Awesome OSS Monetization](https://github.com/PayDevs/awesome-oss-monetization) - A curated list of monetization approaches for open-source software.
+
+
