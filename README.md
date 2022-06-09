@@ -14,5 +14,5 @@ A curated list on the topic of open business models and strategies
 * [Open Collective](https://opencollective.com/) - An online platform that helps open communities and collaborative groups collect and spend money transparently.
 * [Open Source Contracting](https://github.com/mgifford/open-source-contracting) - Providing example language for contracts which work with open-source software and explicitly want to encourage it's growth and development.
 * [Awesome OSS Monetization](https://github.com/PayDevs/awesome-oss-monetization) - A curated list of monetization approaches for open-source software.
-
+* [Someone has to Pay for the domino](https://opencoreventures.com/blog/2022-03-someone-has-to-pay-for-the-domino/) - This post catalogs the sustainability problem and the various solutions we’ve seen working for F/OSS projects.
 
