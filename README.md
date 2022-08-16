@@ -1,5 +1,5 @@
 ## Open Business Models
-A curated list on the topic of open business models and strategies
+A list in relation to open business models and strategies.
 
 * [Open Source: From Community to Commercialization](https://a16z.com/2019/10/04/commercializing-open-source/) - Peter Levine has been working with open source as a developer, entrepreneur, and investor for more than thirty years. He gave a talk that drew on his own experiences as well as interviews with dozens of open source experts.
 * [Awesome Paid Open Source](https://github.com/mrjoelkemp/awesome-paid-open-source) - Collection of links around paid/sustainable open source development.
