@@ -15,4 +15,5 @@ A list in relation to open business models and strategies.
 * [Open Source Contracting](https://github.com/mgifford/open-source-contracting) - Providing example language for contracts which work with open-source software and explicitly want to encourage it's growth and development.
 * [Awesome OSS Monetization](https://github.com/PayDevs/awesome-oss-monetization) - A curated list of monetization approaches for open-source software.
 * [Someone has to Pay for the domino](https://opencoreventures.com/blog/2022-03-someone-has-to-pay-for-the-domino/) - This post catalogs the sustainability problem and the various solutions we’ve seen working for F/OSS projects.
-
+* [OSS Capital](https://oss.capital/) - A seed-stage focused VC exclusively dedicated to backing leading COSS startup founders on a global basis.
+* [Open Core Ventures](https://opencoreventures.com/) - Believes in the power of an open source base for all software, and the impact of open learning and collaboration.
